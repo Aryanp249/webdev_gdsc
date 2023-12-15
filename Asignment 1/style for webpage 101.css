@@ -1,22 +1,35 @@
 
-    body { background-color: #202323; font-family: Verdana, Geneva, Tahoma, sans-serif; }
-    p {color: rgb(255, 255, 255);}
-    h1 {color: rgb(174, 131, 214);}
-    h2 {color: rgb(153, 101, 202);}
-    h3 {color: rgb(187, 107, 203);}
-    label {color: beige;}
-    input {background-color: rgb(49, 49, 49); color: bisque;}
-    table, th, td {border: 1px solid rgb(255, 255, 255); border-collapse: collapse; background-color: rgb(49, 49, 49); color: bisque;}
-    figcaption {color: rgb(255, 255, 255); width: 20%; text-align: center;}
-    img {border: 1px solid rgb(255, 255, 255); border-radius: 5px;}
-    div.mycontainer {
-    width:100%;
+body 
+    { background-color: #202323; font-family: Verdana, Geneva, Tahoma, sans-serif; }
+p 
+    {color: rgb(255, 255, 255);}
+h1 
+    {color: rgb(174, 131, 214);}
+h2 
+    {color: rgb(153, 101, 202);}
+h3 
+    {color: rgb(187, 107, 203);}
+label 
+    {color: beige;}
+input 
+    {background-color: rgb(49, 49, 49); color: bisque;}
+table, th, td 
+    {border: 1px solid rgb(255, 255, 255); border-collapse: collapse; background-color: rgb(49, 49, 49); color: bisque;}
+figcaption 
+    {color: rgb(255, 255, 255); width: 20%; text-align: center;}
+img 
+    {border: 1px solid rgb(255, 255, 255); border-radius: 5px;}
+div.mycontainer 
+    {width:100%;
     overflow:auto;}
-    div.mycontainer div {
-    width:19.7%;  
+div.mycontainer div 
+    {width:19.7%;  
     float:left;
     color: #f6cccc;
     text-align: center;}
-    .form {background-color: rgb(105, 105, 105); padding: 20px; border-radius: 5px;}
-    .favourites {background-color: rgb(66, 66, 66); padding: 20px; border-radius: 5px; }
-    .schedule {background-color: rgb(0, 0, 0); padding: 20px; border-radius: 5px;
+.form     
+    {background-color: rgb(105, 105, 105); padding: 20px; border-radius: 5px;}
+.favourites 
+    {background-color: rgb(66, 66, 66); padding: 20px; border-radius: 5px; }
+.schedule 
+    {background-color: rgb(0, 0, 0); padding: 20px; border-radius: 5px;
